@@ -11,3 +11,11 @@ run_analysis.R - an R script that does the following
 tidy_data.txt - a copy of the tidy data set outputted by the above script
 
 CODEBOOK.md - a markdown file that contains descriptions of each variable in the above tidy data set
+
+# Information about Dataset
+The data set contains the following files
+* test - a folder containing the data from the test portion of the data
+* train - a foldering the training portion of the data
+* READMe.txt -  a text file containing a description and explanation of the data set
+* features.txt -  a text file containg a list of the variables measured in this data set
+* features_info.txt - a test file containg an explanation of the variables in features.txt
